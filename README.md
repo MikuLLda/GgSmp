@@ -49,11 +49,11 @@
     <h1>Vítejte na GGsmp!</h1>
     <p>Aby jste se mohli připojit na náš server, je potřeba dodržet několik jednoduchých kroků:</p>
     <ol style="text-align: left; max-width: 500px; margin: 0 auto; padding: 0;">
-        <li><strong>Připojte se na náš Discord:</strong> Klikněte na tento odkaz <a href="TVOJ_DISCORD_ODKAZ" class="button">Připojit se na Discord</a>, kde najdete veškeré informace o serveru, pravidlech a novinkách.</li>
+        <li><strong>Připojte se na náš Discord:</strong> Klikněte na tento odkaz <a href="https://discord.gg/bnurvgKe" class="button">Připojit se na Discord</a>, kde najdete veškeré informace o serveru, pravidlech a novinkách.</li>
         <li><strong>Vytvořte ticket:</strong> Na Discordu najdete sekci pro vytvoření ticketu. Otevřete ticket a naši administrátoři se vám co nejdříve ozvou, aby vás přidali na bílou listinu.</li>
     </ol>
     <p>Těšíme se na vás a přejeme vám hodně zábavy na našem serveru!</p>
 </div>
 
 </body>
-</html># GgSmp
+</html>
